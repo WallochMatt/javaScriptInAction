@@ -109,3 +109,35 @@
 
 
         // Arrays Task 1: Desktop Items
+
+// let desktopItems = ['desk', 'keyboard', 'pen']
+// console.log(desktopItems[1])
+
+// desktopItems.push("Infinity Gauntlet")
+
+// for(let item of desktopItems){
+//     console.log(item)
+// }
+
+        // BOSS FIGHT
+
+// let magicNumber = Math.floor(Math.random() * 101);
+// let guess = 0;
+
+// while(guess != magicNumber){
+//     guess = prompt("Guess the number")
+//     if(guess< magicNumber){
+//         console.log("Too low")
+//     }
+//     else if(guess > magicNumber){
+//         console.log("Too high")
+//     }
+//     else if(guess == magicNumber){
+//         console.log(`You guessed right the Magic Number is ${magicNumber}!`)
+//         break
+//     }
+//     if((guess >= (magicNumber - 10) && guess < magicNumber) || (guess <= (magicNumber + 10) && guess > magicNumber)){
+//         console.log("Getting warmer...")
+//     }
+// }   
+
